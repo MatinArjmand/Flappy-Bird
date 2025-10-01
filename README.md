@@ -5,10 +5,10 @@ A FlappyBird-style game for Windows, built as an executable.
 With options like increasing speed, music, highscore etc.
 
 You can play using:
-- **Enter**
-- **Spacebar**
-- **Arrow Up**
-- **Left Mouse Click**
+- `Enter`
+- `Spacebar`
+- `Arrow Up`
+- `Left Mouse Click`
 
 ## Usage
 
