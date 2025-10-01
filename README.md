@@ -1,4 +1,4 @@
-# Flappy Bird  🚀
+# Flappy Bird  🐥
 # built with UNITY
 
 A FlappyBird-style game built as a Windows executable with increasing speed, music, highscore etc.
