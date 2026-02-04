@@ -14,7 +14,7 @@ You can play using:
 
 Download or clone the project:
 ```bash
-git clone https://github.com/MtinAMD/Flappy-Bird.git
+git clone https://github.com/MatinArjmand/Flappy-Bird.git
 ```
 
 then run the executable:
